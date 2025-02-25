@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'vamos a calcular el volumen de una esfera'
+4
+1
+31
+'Escribe el radio de la esfera'
+5
+1
+1
+r
+6
+2
+2
+pi
+6
+3.1416
+1
+v
+18
+(4/3) * pi * (r^3)
+4
+1
+22
+'El resultado es: ', v
+1

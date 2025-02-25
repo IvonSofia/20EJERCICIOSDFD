@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'vamos a convertir de grados Centigrados a grados Fahrenheit'
+4
+1
+37
+'Ingresar el valor de Grados Celsius'
+5
+1
+1
+c
+6
+1
+11
+temperatura
+10
+(9*c)/5+32
+4
+1
+53
+'El resultado en Grados Fahrenheit es: ', temperatura
+1

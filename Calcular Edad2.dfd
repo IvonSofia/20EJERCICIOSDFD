@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'vamos a calcular cual es tu edad'
+4
+1
+40
+'Ingrese año de nacimiento y año actual'
+5
+1
+24
+anoNacimiento, anoActual
+6
+1
+1
+E
+25
+anoNacimiento - anoActual
+4
+1
+20
+'La edad es de: ', E
+1

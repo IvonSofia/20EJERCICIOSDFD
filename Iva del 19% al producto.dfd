@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'Vamos a calcular el valor de un producto con iva del 19%'
+5
+1
+5
+valor
+6
+2
+3
+iva
+12
+valor * 0.19
+9
+resultado
+11
+valor + iva
+4
+1
+46
+'El valor del producto con iva es:', resultado
+1

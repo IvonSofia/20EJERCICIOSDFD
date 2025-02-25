@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+1
+6
+numero
+1
+0
+4
+1
+48
+'Vamos a calcular el cubo de un numero digitado'
+4
+1
+18
+'Digite el numero'
+5
+1
+6
+numero
+12
+1
+4
+cubo
+1
+6
+numero
+1
+2
+1
+4
+cubo
+1
+6
+numero
+0
+6
+1
+10
+numeroCubo
+8
+numero^3
+4
+1
+46
+'El cubo del numero digitado es: ', numeroCubo
+3

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'vamos a calcula la division entera'
+4
+1
+38
+'Ingrese el primer numero (Dividendo)'
+5
+1
+12
+primerNumero
+4
+1
+37
+'Ingrese el segundo numero (Divisor)'
+5
+1
+13
+segundoNumero
+6
+1
+9
+resultado
+33
+TRUNC(primerNumero/segundoNumero)
+4
+1
+52
+'El resultado de la division entera es: ', resultado
+1

@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'vamos a calcular la velocidad final'
+4
+1
+30
+'Ingrese la velocidad inicial'
+5
+1
+2
+vi
+4
+1
+24
+'Ingrese la aceleracion'
+5
+1
+1
+a
+4
+1
+22
+'Ingrese la distancia'
+5
+1
+1
+d
+6
+1
+6
+vfinal
+20
+(vi^2 + 2*a*d)^(0.5)
+4
+1
+36
+'La velocidad final es de: ', vfinal
+1

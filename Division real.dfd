@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'vamos a calcular la division real de dos numeros digitados'
+4
+1
+37
+'Digite el primer numero (Dividendo)'
+5
+1
+9
+dividendo
+4
+1
+36
+'Digite el segundo numero (Divisor)'
+5
+1
+7
+divisor
+6
+1
+9
+resultado
+17
+dividendo/divisor
+4
+1
+50
+'El resultado de la division real es: ', resultado
+1

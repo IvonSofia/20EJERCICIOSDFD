@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+'ingresa por teclado un número positivo y entero y el PC debe mostrar en pantalla si el número termina en cero o no.'
+4
+1
+29
+'Ingresa por favor el numero'
+5
+1
+6
+numero
+6
+1
+1
+U
+13
+numero MOD 10
+7
+0
+1
+5
+U = 0
+4
+1
+58
+'El numero ingresado ', numero,  ' no termina en cero (0)'
+13
+4
+1
+55
+'El numero ingresado ', numero,  ' termina en cero (0)'
+13
+1
